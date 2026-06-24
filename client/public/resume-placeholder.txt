@@ -1,0 +1,8 @@
+Albert Frimpong Kofi Resume Placeholder
+===================
+
+In production, replace with actual PDF resume file.
+
+Skills: Python, SQL, Power BI, Excel, JS
+Experience: BSc in Software Engineering graduate
+Certifications: Project Management Certificate, Prompt Engineering Certificate, CFA Level I Candidate
